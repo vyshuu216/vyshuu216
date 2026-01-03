@@ -1,5 +1,17 @@
 # 💫 About Me:
-I'm a student. I'm studying in B.Tech 3rd year in CSE(AI&ML) in Kakatiya Institute of Technology and Sciences, Warangal. 
+## 💫 About Me  
+
+I'm a B.Tech 3rd-year Computer Science student (AI & ML) at  
+**Kakatiya Institute of Technology and Sciences, Warangal**.
+
+I focus on:
+- Writing **clean and optimized code**
+- Building a **strong DSA foundation**
+- Applying concepts through **well-documented projects**
+- Preparing for **software engineering roles**
+
+I believe consistency > talent, and I use GitHub as my daily learning log.
+
 
 
 ## 🌐 Socials:
