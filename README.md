@@ -100,38 +100,6 @@ Structured collection of DSA resources, notes and coding practice material.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vyshuu216&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vyshuu216&theme=vision-friendly-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshuu216&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vyshuu216&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
-
----
-
-## 📈 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vyshuu216&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
 <p align="center">
 ✨ Learning • Building • Improving Every Day ✨
 </p>
