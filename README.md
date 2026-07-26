@@ -1,105 +1,475 @@
-<h1 align="center">Hi 👋, I'm Vyshnavi Samudrala</h1>
-<h3 align="center">B.Tech CSE (AI & ML) Student | Aspiring Software Engineer</h3>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,40:7B42F6,100:FF3B3B&text=Vyshnavi%20Samudrala&fontColor=ffffff&fontSize=54&fontAlignY=38&animation=twinkling&desc=Software%20Engineer%20•%20AI%20%26%20ML%20Enthusiast%20•%20Full%20Stack%20Developer&descAlignY=58&descSize=16"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=900&duration=2600&center=true&vCenter=true&width=800&color=FF3B3B&lines=B.Tech+CSE+(AI+%26+ML)+Student;Machine+Learning+Enthusiast;Full+Stack+Developer;Problem+Solver;Building+Impactful+Software"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=vyshuu216&style=for-the-badge&label=PROFILE+VIEWS&color=FF3B3B"/>
+
+<img src="https://img.shields.io/github/followers/vyshuu216?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/vyshuu216?affiliations=OWNER&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 👋 Hey There!
+
+I'm **Vyshnavi Samudrala**, a Computer Science student passionate about problem solving, machine learning, and building impactful software solutions.
+
+Currently focused on becoming a **Software Engineer** while strengthening my skills in:
+
+- 💻 Full Stack Development
+- 🤖 Machine Learning
+- 🧩 Data Structures & Algorithms
+- ⚡ System Design Fundamentals
+- ☁️ Cloud Technologies
+
+---
+
+# 🧠 About Me
+
+```yaml
+Name: Vyshnavi Samudrala
+
+Education:
+  B.Tech Computer Science Engineering (AI & ML)
+  Kakatiya Institute of Technology & Science, Warangal
+  3rd Year
+
+Current Focus:
+  - Advanced DSA
+  - Machine Learning Applications
+  - Full Stack Development
+  - System Design Fundamentals
+
+Learning:
+  - Advanced Data Structures & Algorithms
+  - System Design Fundamentals
+  - Machine Learning Applications
+  - Cloud Technologies
+
+Currently Building:
+  - ML Playground
+  - Resume Analyzer
+  - TicketFlow
+
+Goal:
+  Software Engineering Role
+
+Dream:
+  Build scalable software solutions.
+```
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  Passionate about Problem Solving, Machine Learning, Full Stack Development and building impactful software solutions.
-</p>
 
----
+<a href="https://www.linkedin.com/in/samudrala-vyshnavi-824862282/">
 
-## 🚀 About Me
-
-🎓 B.Tech 3rd Year – Computer Science Engineering (AI & ML)
-
-🏫 Kakatiya Institute of Technology & Science, Warangal
-
-💡 Interested in:
-- Data Structures & Algorithms
-- Machine Learning
-- Full Stack Development
-- Software Engineering
-
-📚 Currently Learning:
-- Advanced DSA
-- System Design Fundamentals
-- Machine Learning Applications
-- Cloud Technologies
-
-🎯 Goal:
-To build scalable software solutions and secure a Software Engineering role.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/samudrala-vyshnavi-824862282/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
+
+<a href="https://github.com/vyshuu216">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 🚀 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## 💻 Languages
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c"/>
 
-### AI / ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+## 🌐 Frontend
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+## 🗄 Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+
+## 🤖 AI / ML
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas"/>
+
+## 🛠 Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel"/>
+
+</div>
 
 ---
 
-## ⭐ Featured Projects
+# ⚡ Currently Working On
 
-### 🤖 ML Playground
-Interactive Machine Learning Playground where users can experiment with ML algorithms and visualize outputs.
-
-🔗 Repository: https://github.com/vyshuu216/ML_Playground
-
----
-
-### 🎫 TicketFlow
-Real-time Support Ticket Management System with authentication, ticket tracking and role-based access.
-
-🔗 Repository: https://github.com/vyshuu216/TicketFlow
-
----
-
-### 📄 Resume Analyzer
-AI-powered Resume Analysis platform that evaluates resumes and provides insights for improvement.
-
-🔗 Repository: https://github.com/vyshuu216/resume_analyzer
-
----
-
-### 📚 DSA Roadmap
-Structured collection of DSA resources, notes and coding practice material.
-
-🔗 Repository: https://github.com/vyshuu216/dsa-roadmap
+- 🧩 Advanced DSA Practice
+- 🤖 Machine Learning Projects
+- 💻 Full Stack Development
+- ⚡ System Design Fundamentals
+- ☁️ Exploring Cloud Technologies
 
 ---
 
 <p align="center">
-✨ Learning • Building • Improving Every Day ✨
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+> **Learning, building, and improving every day — through ML, full stack development, and DSA.**
+
+</div>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 ML Playground
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-7B42F6?style=flat-square"/>
+
+An interactive Machine Learning Playground where users can experiment with ML algorithms and visualize outputs.
+
+**Skills**
+
+`Python` `Machine Learning` `NumPy` `Pandas`
+
+🔗 [Repository](https://github.com/vyshuu216/ML_Playground)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎫 TicketFlow
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb"/>
+
+Real-time Support Ticket Management System with authentication, ticket tracking, and role-based access.
+
+**Skills**
+
+`React` `Node.js` `Express` `MongoDB`
+
+🔗 [Repository](https://github.com/vyshuu216/TicketFlow)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📄 Resume Analyzer
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF3B3B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-7B42F6?style=flat-square"/>
+
+An AI-powered resume analysis platform that evaluates resumes and provides insights for improvement.
+
+**Skills**
+
+`Python` `Machine Learning` `NLP` `AI`
+
+🔗 [Repository](https://github.com/vyshuu216/resume_analyzer)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛡️ Web Vulnerability Scanner
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security-121D33?style=flat-square"/>
+
+A security assessment tool for identifying common web application vulnerabilities.
+
+**Skills**
+
+`Python` `Cybersecurity` `Automation`
+
+🔗 [Repository](https://github.com/vyshuu216/Web_Vulnerabilty_Scanner)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧠 Brain Tumor Detection
+
+<img src="https://img.shields.io/badge/CNN-FF3B3B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-7B42F6?style=flat-square"/>
+
+A deep learning model for detecting brain tumors from medical imaging data.
+
+**Skills**
+
+`Python` `CNN` `Deep Learning` `TensorFlow`
+
+🔗 [Repository](https://github.com/vyshuu216/Brain_Tumor_Detection)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📚 DSA Roadmap
+
+<img src="https://img.shields.io/badge/DSA-0D1117?style=flat-square"/>
+
+A structured collection of DSA resources, notes, and coding practice material.
+
+**Skills**
+
+`Data Structures` `Algorithms` `Problem Solving`
+
+🔗 [Repository](https://github.com/vyshuu216/dsa-roadmap)
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏆 Highlights
+
+<div align="center">
+
+| 🚀 Projects | 💻 Technologies | 🎯 Focus |
+|:-----------:|:---------------:|:--------:|
+| 5+ | Java • Python • React • Node | ML + Full Stack |
+| ML Projects | Full Stack Apps | DSA |
+| Open Source Learner | Backend | Frontend |
+
+</div>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vyshuu216&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vyshuu216&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=vyshuu216&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshuu216&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+
+<img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vyshuu216&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vyshuu216&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img width="100%" src="https://ghchart.rshah.org/FF3B3B/vyshuu216"/>
+
+</div>
+
+---
+
+# 🧩 Areas of Interest
+
+<div align="center">
+
+| 🤖 AI / ML | 💻 Software | 🧠 CS Fundamentals |
+|:----------:|:-----------:|:-------------------:|
+| Machine Learning | Full Stack Dev | DSA |
+| Model Building | REST APIs | System Design |
+| Data Analysis | Authentication | Problem Solving |
+
+</div>
+
+---
+
+# 🎯 Goals
+
+| 🎯 Goal | Status |
+|:--------|:------:|
+| Master Advanced DSA | 🚧 |
+| Strengthen ML Applications | 🚧 |
+| Learn System Design Fundamentals | 🚧 |
+| Explore Cloud Technologies | 🚧 |
+| Build More Full Stack Projects | ✅ |
+| Contribute to Open Source | 🚧 |
+| Land a Software Engineering Role | 🎯 |
+
+---
+
+# ⚡ Daily Routine
+
+```text
+🌅 Morning
+    ☕ Planning
+    🧩 DSA Practice
+
+💻 Afternoon
+    🚀 Full Stack Development
+    🤖 ML Projects
+
+🌙 Evening
+    📈 Problem Solving
+    ☁️ Exploring New Tech
+```
+
+---
+
+# 💡 Favorite Quote
+
+<div align="center">
+
+> **"Learning • Building • Improving Every Day"**
+
+</div>
+
+---
+
+# 🌟 Fun Facts About Me
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+## 💻
+
+Love building
+
+Full Stack Apps
+
+</td>
+
+<td align="center" width="33%">
+
+## 🤖
+
+Passionate about
+
+Machine Learning
+
+</td>
+
+<td align="center" width="33%">
+
+## 🚀
+
+Goal
+
+Software Engineer
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# ❤️ Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/samudrala-vyshnavi-824862282/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/vyshuu216">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+# ⭐ Support My Work
+
+<div align="center">
+
+If you like my projects,
+
+⭐ Star the repositories
+
+🍴 Fork them
+
+🤝 Connect with me
+
+💡 Share ideas
+
+</div>
+
+---
+
+# 🚀 Thanks for Visiting
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=FF3B3B&center=true&vCenter=true&width=650&lines=Thank+you+for+visiting!;Happy+Coding!;Let's+Build+Something+Awesome!"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:FF3B3B,50:7B42F6,100:0D1117"/>
+
+</div>
