@@ -1,19 +1,4 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,40:7B42F6,100:FF3B3B&text=Vyshnavi%20Samudrala&fontColor=ffffff&fontSize=54&fontAlignY=38&animation=twinkling&desc=Software%20Engineer%20•%20AI%20%26%20ML%20Enthusiast%20•%20Full%20Stack%20Developer&descAlignY=58&descSize=16"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=900&duration=2600&center=true&vCenter=true&width=800&color=FF3B3B&lines=B.Tech+CSE+(AI+%26+ML)+Student;Machine+Learning+Enthusiast;Full+Stack+Developer;Problem+Solver;Building+Impactful+Software"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=vyshuu216&style=for-the-badge&label=PROFILE+VIEWS&color=FF3B3B"/>
-
-<img src="https://img.shields.io/github/followers/vyshuu216?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/vyshuu216?affiliations=OWNER&style=for-the-badge"/>
-
-</div>
-
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=260&amp;color=0:0D1117,40:7B42F6,100:FF3B3B&amp;text=Vyshnavi%20Samudrala&amp;fontColor=ffffff&amp;fontSize=54&amp;fontAlignY=38&amp;animation=twinkling&amp;desc=Software%20Engineer%20%E2%80%A2%20AI%20%26%20ML%20Enthusiast%20%E2%80%A2%20Full%20Stack%20Developer&amp;descAlignY=58&amp;descSize=16"/> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;pause=900&amp;duration=2600&amp;center=true&amp;vCenter=true&amp;width=800&amp;color=FF3B3B&amp;lines=B.Tech+CSE+(AI+%26+ML)+Student;Machine+Learning+Enthusiast;Full+Stack+Developer;Problem+Solver;Building+Impactful+Software"/> <br> <img src="https://komarev.com/ghpvc/?username=vyshuu216&amp;style=for-the-badge&amp;label=PROFILE+VIEWS&amp;color=FF3B3B"/> <img src="https://img.shields.io/github/followers/vyshuu216?logo=github&amp;style=for-the-badge"/> <img src="https://img.shields.io/github/stars/vyshuu216?affiliations=OWNER&amp;style=for-the-badge"/> </div>
 ---
 
 # 👋 Hey There!
