@@ -38,7 +38,7 @@ Name: Vyshnavi Samudrala
 Education:
   B.Tech Computer Science Engineering (AI & ML)
   Kakatiya Institute of Technology & Science, Warangal
-  3rd Year
+  Final Year
 
 Current Focus:
   - Advanced DSA
