@@ -273,23 +273,20 @@ A structured collection of DSA resources, notes, and coding practice material.
 </div>
 
 ---
+
 # 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
 
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/vyshuu216/vyshuu216/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/AbhinavS0201/AbhinavS0201/output/github-snake-dark.svg"/>
 
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/vyshuu216/vyshuu216/output/github-snake.svg" />
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/AbhinavS0201/AbhinavS0201/output/github-snake.svg"/>
 
-<img
-alt="github contribution snake"
-src="https://raw.githubusercontent.com/vyshuu216/vyshuu216/output/github-snake.svg" />
+<img src="https://raw.githubusercontent.com/AbhinavS0201/AbhinavS0201/output/github-snake-dark.svg"/>
 
 </picture>
 
